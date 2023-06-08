@@ -1,1 +1,1 @@
-rmdir /tmp my_first_directory
+rmdir my_first_directory/tmp
