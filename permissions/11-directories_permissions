@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 774 d 
+chmod +x 774 d 
