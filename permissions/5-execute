@@ -1,2 +1,2 @@
 #!/bin/bash
---x /root hello
+chmod 0100 hello
