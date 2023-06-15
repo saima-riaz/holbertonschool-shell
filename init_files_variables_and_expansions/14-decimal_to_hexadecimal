@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $((6#$DECIMAL))
+echo $((6#$DECIMAL))
